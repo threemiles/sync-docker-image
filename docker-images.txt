@@ -1,2 +1,2 @@
 # aaa
-redis:7
+postgres:15
